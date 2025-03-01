@@ -23,5 +23,3 @@ The website includes the following pages:
 3. Modify `style.css` files as needed for design customization.
 
 ---
-
-This
